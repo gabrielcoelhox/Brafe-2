@@ -6,9 +6,9 @@
 
 Curso focado em ensinar na prática como criar um site responsivo do zero, utilizando quatro formas diferentes de CSS.
 
-### Brafé 2
+### Brafé 1
 
-Segundo layout criado para o mesmo site: https://github.com/gabrielcoelhox/Brafe
+Primeiro layout criado para o mesmo site: https://github.com/gabrielcoelhox/Brafe
 
 ## Grade do curso
 
